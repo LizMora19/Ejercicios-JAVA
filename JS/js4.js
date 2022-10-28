@@ -3,11 +3,6 @@
 /* const nombre = () => {};  */   /* funcion flecha */
 
 
-
-
-
-
-
 function divisores(numero) {
     let total = 0;
 
@@ -80,5 +75,8 @@ function ImagenAleatoria() {
         imagen.src = "./RECURSOS/tulipan colores.jpg";
     } else if (num_imagen == 5) {
         imagen.src = "./RECURSOS/tulipan_tulipa_3706_5_600.jpg";
+    } else if (num_imagen == 6) {
+        imagen.src = "./RECURSOS/FONDO TULIPANES.jpg";
+    
     }
 }
