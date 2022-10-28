@@ -78,25 +78,7 @@ function ImagenAleatoria() {
         imagen.src = "./RECURSOS/rosas.jpg";
     } else if (num_imagen == 4) {
         imagen.src = "./RECURSOS/tulipan colores.jpg";
-    } else {
+    } else if (num_imagen == 5) {
         imagen.src = "./RECURSOS/tulipan_tulipa_3706_5_600.jpg";
     }
 }
-
-
-/* function f1(){}
-function f2(){}
-function f3(){} */
-
-/* ejemplo = function(numero){
-        let total = 0;
-    
-        for(let i=1; i <=numero; i++) {
-            if(numero % i == 0){
-                total++;
-            }
-    
-        }
-        return total;
-    
-} */
