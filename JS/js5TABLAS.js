@@ -5,3 +5,4 @@ var t1=prompt ("Hasta que numero desea imprima la tabla:");
 
     document.write(t1+"*"+x+"="+(t1*x)+"<br>") ;
  }
+ 
